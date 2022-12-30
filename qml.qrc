@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/study_status.qml</file>
+        <file>qml/study_report.qml</file>
+        <file>qml/search_log.qml</file>
+        <file>qml/WheelView.qml</file>
+        <file>qml/DarkSwitch.qml</file>
+        <file>qml/WordResult.qml</file>
+        <file>qml/details_word_result.qml</file>
+        <file>qml/CustomBorder.qml</file>
+        <file>qml/lock_screen.qml</file>
+    </qresource>
+</RCC>
